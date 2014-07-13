@@ -1,3 +1,3 @@
-ex-data-analysis-plot1
+ex-data-analysis-plots
 ======================
 
